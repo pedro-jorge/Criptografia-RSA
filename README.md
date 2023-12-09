@@ -1,3 +1,1 @@
-# RSA in Python
-Simple RSA implementation using Python <br/>
-Final work from Integers Numbers and Cryptography, UFRJ
+### Implementação da criptografia RSA, projeto final da disciplina de Numeros Inteiros e Criptografia da UFRJ
